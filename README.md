@@ -1,2 +1,3 @@
-# insurence-premium-predictor
-machine learning project
+pip install streamlit
+
+streamlit run main.py
